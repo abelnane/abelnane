@@ -1,19 +1,25 @@
-### Profesional con experiencia en el análisis de datos enfocado en el sector retail y supermercados. Especializado en la extracción, transformación y visualización de datos para la toma de decisiones estratégicas.
+### 📊 Analista de Datos | Retail & Supermercados
+Soy un Analista de Datos con experiencia en el sector retail y supermercados, especializado en la extracción, transformación y visualización de datos para potenciar la toma de decisiones estratégicas.
 
-Habilidades destacadas:
+🔹 Habilidades Técnicas:
 
-SQL: Manejo avanzado de bases de datos relacionales, optimización de consultas, ETL y generación de reportes. 
+SQL: Consultas avanzadas, optimización, ETL y generación de reportes.
 
 Python: Análisis de datos con pandas y numpy, automatización de procesos y modelado predictivo con scikit-learn.
 
 Power BI: Creación de dashboards interactivos, modelado de datos y análisis de tendencias de ventas, inventario y comportamiento del consumidor.
 
-Experiencia en la optimización de estrategias de pricing, gestión de stock, segmentación de clientes y análisis de desempeño de productos. Capacidad para interpretar grandes volúmenes de datos y generar insights accionables que impulsen la rentabilidad y eficiencia operativa.
+📈 Experiencia en:
+✔️ Optimización de estrategias de pricing y gestión de stock.
+✔️ Segmentación de clientes y análisis de desempeño de productos.
+✔️ Generación de insights accionables para mejorar la rentabilidad y eficiencia operativa.
 
-Enfoque analítico, orientado a resultados y con habilidad para comunicar hallazgos de manera clara a distintos niveles de la organización.👋
+🎯 Enfoque analítico y orientado a resultados, con capacidad para comunicar hallazgos de manera clara a distintos niveles de la organización.
 
-Certificado en Google como Data Analytics en un curso intencivo con duración de 6 meses.
+📜 Certificación:
+✅ Google Data Analytics Certificate
 
+🚀 Explora mis proyectos y descubre cómo los datos pueden transformar el negocio.
 <!--
 **abelnane/abelnane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
