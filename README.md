@@ -1,4 +1,4 @@
-### 📊 Analista de Datos | Retail & Supermercados
+### 📊 Analista de Datos | Ingeniero en Informática
 Soy un Analista de Datos con experiencia en el sector retail y supermercados, especializado en la extracción, transformación y visualización de datos para potenciar la toma de decisiones estratégicas.
 
 🔹 Habilidades Técnicas:
